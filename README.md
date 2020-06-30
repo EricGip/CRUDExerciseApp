@@ -3,7 +3,7 @@ MongoDb (+ mongoose) Express React Node, CRUD app by following a tutorial.
 
 # How to use:
 
-This project is too simply to be worth hosting unfortuantely,  
+This project is too simple to be worth hosting unfortuantely
 1. Clone repository
 
 > cd mern-exercise-tracker 
